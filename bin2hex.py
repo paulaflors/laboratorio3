@@ -3,7 +3,7 @@
 # El número binario es un string e.g. "101"
 # El número hexadecimal es también un string e.g. "AB5"
 # ------------------------------------------------------
-#editado por paula
+#editado por adolfo
 def TablabinHex(cuatro_digitos_binarios):
     digito_hexadecimal = ""
     if cuatro_digitos_binarios == "0000":
